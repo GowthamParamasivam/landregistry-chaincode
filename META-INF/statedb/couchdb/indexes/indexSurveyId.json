@@ -1,1 +1,1 @@
-{"index":{"fields":["SurveryId","CurrentOwner"]},"ddoc":"indexSurveyIdDoc", "name":"indexSurveyId","type":"json"}
+{"index":{"fields":["SiteId","CurrentOwnerName"]},"ddoc":"indexSiteIdDoc", "name":"indexSiteId","type":"json"}
